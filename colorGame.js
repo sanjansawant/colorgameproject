@@ -165,7 +165,7 @@ function reset(){
 		listing.textContent=pickedColor;
 		message.textContent="";
 		this.textContent="New Colors";
-		a();
+		resetNew();
 	});
 
 }
